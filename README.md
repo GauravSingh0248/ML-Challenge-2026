@@ -87,10 +87,10 @@ pip install pandas numpy lightgbm scikit-learn
 ```
 
 ### Steps
-1. Place `TRAIN.csv` and `TEST.csv` in the same directory as `solution.py`
+1. Place `TRAIN.csv` and `TEST.csv` in the same directory as `fault_detection_lgbm.py`
 2. Run the script:
 ```bash
-python solution.py
+python fault_detection_lgbm.py
 ```
 3. `FINAL.csv` will be generated with two columns: `ID` and `CLASS`
 
