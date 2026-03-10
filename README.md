@@ -1,7 +1,6 @@
 # 🔧 Device Fault Detection — IEEE SB GEHU ML Challenge
 
 A supervised binary classification solution built to detect whether an embedded device is operating normally or experiencing a fault, based on 47 numerical sensor readings.
-
 ---
 
 ## 📌 Problem Overview
